@@ -1,12 +1,31 @@
-# React + Vite
+# MTV Downtown Fan Site
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um site fã não-oficial da série cult **MTV Downtown (1999)**, desenvolvido em React com design moderno e interativo.
 
-Currently, two official plugins are available:
+React + Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Funcionalidades
 
-## Expanding the ESLint configuration
+- **Design Responsivo** - Adaptado para todos os dispositivos
+-  **Animações Suaves** - Com Framer Motion
+-  **Player de Áudio** - Trilha sonora ambiente
+-  **Tema Claro/Escuro** - Alternância entre modos
+-  **Menu Mobile** - Navegação otimizada para mobile
+-  **Lightbox** - Visualização ampliada de imagens
+-  **Performance Otimizada** - Com Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Como Executar
+
+### Pré-requisitos
+- Node.js 16+
+- npm ou yarn
+
+⚠ Aviso Legal
+Este é um site fã não-oficial. Todas as marcas registradas e direitos autorais pertencem aos seus respectivos proprietários. Este projeto é apenas para fins educacionais e de fã.
+
+Autor
+Murilo Feliciano Vieira - Booguey
+
+
+
+
