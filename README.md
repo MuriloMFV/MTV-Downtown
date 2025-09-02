@@ -4,7 +4,7 @@ Um site fã não-oficial da série cult **MTV Downtown (1999)**, desenvolvido em
 
 React + Vite
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - **Design Responsivo** - Adaptado para todos os dispositivos
 -  **Animações Suaves** - Com Framer Motion
