@@ -2,3 +2,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.youtube {
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
